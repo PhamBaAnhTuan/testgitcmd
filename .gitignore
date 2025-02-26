@@ -1,3 +1,2 @@
 *.txt
 !tuan.txt
-env/*.txt
